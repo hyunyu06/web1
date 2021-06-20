@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Web 1 - html</title>
+  </head>
+  <body>
+    <ol>
+      <li><a href="https://youtu.be/cOZ9mPyK0LE?t=374">1. 메뚜기 월드에 오신걸</a><br></li>
+      <li><a href="https://youtu.be/cOZ9mPyK0LE?t=380">2. 환영합니다아</a><br></li>
+      <li><a href="https://youtu.be/cOZ9mPyK0LE?t=480">3. 메뚜기 월드에 오신 걸</a><br></li>
+      <li><a href="https://youtu.be/cOZ9mPyK0LE?t=512">4. 환영합니다아아아</a></li>
+    </ol>
+    <h1>this is <a href="https://www.youtube.com/watch?v=cOZ9mPyK0LE"> the 메뚜기 월드</a></h1>
+    <body><br><br>
+      <center><p>
+        <strong>hello web</strong></p>
+        <p style="margin-top:45px;"> namnamnam
+        </style>
+      </center><br><br>
+        <u>hello</u><strong>web</strong>
+  </body>
